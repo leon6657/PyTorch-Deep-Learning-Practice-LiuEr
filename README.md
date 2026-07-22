@@ -1,6 +1,3 @@
----
-
-```markdown
 # PyTorch 深度学习实践 - 刘二老师课程笔记
 
 > 🚀 个人学习笔记：基于刘二老师《PyTorch深度学习实践》课程的代码实现与详细注释
@@ -15,7 +12,6 @@
 
 ## 🗂️ 仓库结构
 
-```
 ├── 01_Linear_Model/          # 线性模型
 ├── 02_Gradient_Descent/      # 梯度下降算法
 ├── 03_Back_Propagation/      # 反向传播
