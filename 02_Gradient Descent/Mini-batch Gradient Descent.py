@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 """
-3. Mini-batch Gradient Descent —— “中庸之道”
+3. Mini-batch 02_Gradient Descent —— “中庸之道”
 用 Mini-batch GD 下山，会这样做：
 不是看整个山体（太慢），也不是只看脚下1平方厘米（太不准），
 而是扫视眼前的一大块区域（比如，随机选 64 个点）。
@@ -85,6 +85,6 @@ print('Predict (after training)', 4, forward(4))
 plt.plot(range(100), loss_history)
 plt.xlabel('Epoch')
 plt.ylabel('Loss')
-plt.title('Mini-batch Gradient Descent - Loss Curve')
+plt.title('Mini-batch 02_Gradient Descent - Loss Curve')
 plt.grid(True)
 plt.show()

@@ -11,7 +11,7 @@ matplotlib.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'SimSun',
 matplotlib.rcParams['axes.unicode_minus'] = False
 
 """
-2. 随机梯度下降 (Stochastic Gradient Descent, SGD) —— "边看边走"
+2. 随机梯度下降 (Stochastic 02_Gradient Descent, SGD) —— "边看边走"
 📊 可视化效果说明
 运行后会弹出 2×2 的四个子图：
 子图	内容	作用

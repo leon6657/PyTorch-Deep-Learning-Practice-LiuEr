@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 """
-2. 随机梯度下降 (Stochastic Gradient Descent, SGD) —— “边看边走”
+2. 随机梯度下降 (Stochastic 02_Gradient Descent, SGD) —— “边看边走”
 用 SGD 下山，你会这样做：
 你不再去感受整个山体，而是随机地、快速地扫一眼脚下的一个小角落（比如，只计算 1个 数据点的坡度）。
 你根据这个角落的坡度，立刻迈出一步。

@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 """
-1. 梯度下降 (Gradient Descent, GD) —— “三思而后行”
+1. 梯度下降 (02_Gradient Descent, GD) —— “三思而后行”
 用 GD 下山，你会这样做：
 停住脚步，站在原地。
 感受一下整个山体（或者说，精确计算所有方向的坡度）。

@@ -8,7 +8,7 @@ matplotlib.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'SimSun',
 # 解决负号 '-' 显示为方块的问题
 matplotlib.rcParams['axes.unicode_minus'] = False
 """
-1. 梯度下降 (Gradient Descent, GD) —— “三思而后行” -----可视化
+1. 梯度下降 (02_Gradient Descent, GD) —— “三思而后行” -----可视化
 左图：损失下降曲线
 横轴：训练轮次（Epoch）
 纵轴：损失值（Loss）
@@ -127,7 +127,7 @@ ax2.annotate(f'f(4) = {forward(4):.4f}',
              xytext=(4.3, forward(4) - 0.3),
              fontsize=10, color='blue')
 
-plt.suptitle('Gradient Descent Demo - 梯度下降可视化', fontsize=16, fontweight='bold')
+plt.suptitle('02_Gradient Descent Demo - 梯度下降可视化', fontsize=16, fontweight='bold')
 plt.tight_layout()
 plt.show()
 
