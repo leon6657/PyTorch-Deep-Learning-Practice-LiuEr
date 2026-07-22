@@ -11,21 +11,20 @@
 ---
 
 ## 🗂️ 仓库结构
-
-├── 01_Linear_Model/          # 线性模型
-├── 02_Gradient_Descent/      # 梯度下降算法
-├── 03_Back_Propagation/      # 反向传播
-├── 04_PyTorch_Linear/        # PyTorch 实现线性回归
-├── 05_Logistic_Regression/   # 逻辑回归
-├── 06_Multiple_Dimension/    # 多维输入
-├── 07_Dataset/               # Dataset 数据加载
-├── 08_Multi_Classification/  # 多分类问题
-├── 09_CNN/                   # 卷积神经网络基础
-├── 10_Advanced_CNN/          # 深度卷积神经网络
-├── 11_RNN/                   # 循环神经网络基础
-├── 12_GRU/                   # GRU 与 LSTM
-└── README.md                 # 本文件
-
+```
+├── 01_Linear_Model/ # 线性模型
+├── 02_Gradient_Descent/ # 梯度下降算法
+├── 03_Back_Propagation/ # 反向传播
+├── 04_PyTorch_Linear/ # PyTorch 实现线性回归
+├── 05_Logistic_Regression/ # 逻辑回归
+├── 06_Multiple_Dimension/ # 多维输入
+├── 07_Dataset/ # Dataset 数据加载
+├── 08_Multi_Classification/ # 多分类问题
+├── 09_CNN/ # 卷积神经网络基础
+├── 10_Advanced_CNN/ # 深度卷积神经网络
+├── 11_RNN/ # 循环神经网络基础
+├── 12_GRU/ # GRU 与 LSTM
+└── README.md # 本文件
 ```
 
 ---
